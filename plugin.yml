@@ -1,3 +1,15 @@
 name: FKeyCommand
 version: 1.0
 main: org.cikerr.fkeycommand.FKeyCommand
+api-version: 1.16
+commands:
+  fkc:
+    description: FKeyCommand plugin commands
+    usage: /<command> <reload>
+permissions:
+  fkc.use:
+    description: Allows using the FKeyCommand swap hand items feature
+    default: true
+  fkc.reload:
+    description: Allows reloading the FKeyCommand configuration
+    default: op

@@ -1,1 +1,7 @@
-command: "say Привет!"
+command: "say Hello!"
+execute-as-console: true
+no-permission-message: "You don't have permission."
+cooldown-seconds: 10
+cooldown-message: "Wait before using this action again."
+require-shift: false
+reload-message: "Configuration reloaded."
