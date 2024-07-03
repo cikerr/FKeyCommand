@@ -9,7 +9,7 @@ commands:
 permissions:
   fkc.use:
     description: Allows using the FKeyCommand swap hand items feature
-    default: true
+    default: false
   fkc.reload:
     description: Allows reloading the FKeyCommand configuration
     default: op
