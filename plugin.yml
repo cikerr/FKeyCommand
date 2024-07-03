@@ -1,5 +1,5 @@
 name: FKeyCommand
-version: 1.0
+version: 2.0
 main: org.cikerr.fkeycommand.FKeyCommand
 api-version: 1.16
 commands:
